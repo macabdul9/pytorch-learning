@@ -1,8 +1,13 @@
 *.csv
 *.pkl
 
+
 Deep-Neural-Networks-with-pytorch-Coursera/cifar/
 Deep-Neural-Networks-with-pytorch-Coursera/runs/
+
+PyTorch-Tutorials/data/
+PyTorch-Tutorials/runs/
+
 
 # Created by https://www.gitignore.io/api/python
 # Edit at https://www.gitignore.io/?templates=python
