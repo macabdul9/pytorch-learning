@@ -1,6 +1,8 @@
 *.csv
 *.pkl
 
+data/
+
 
 Deep-Neural-Networks-with-pytorch-Coursera/cifar/
 Deep-Neural-Networks-with-pytorch-Coursera/runs/
